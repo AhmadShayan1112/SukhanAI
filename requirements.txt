@@ -1,15 +1,12 @@
-streamlit==1.42.0
-torch>=2.0.1
-torchvision>=0.15.0
-torchaudio>=2.0.1
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
-requests
-beautifulsoup4
-rich
-markdown-it-py
-pygments
-mdurl
+torch==2.1.0
+streamlit==1.30.0
+
+# Model-related libraries
+numpy==1.26.2
+
+# For JSON handling
+jsonschema==4.19.0
+
+# Additional dependencies
+Model  # Placeholder for your custom model library
+load   # Placeholder for your custom load module
