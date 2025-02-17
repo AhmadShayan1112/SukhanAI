@@ -1,0 +1,8 @@
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+numpy==1.24.3
+json5==0.9.14
+matplotlib==3.7.1
+tqdm==4.65.0
+nltk==3.8.1
