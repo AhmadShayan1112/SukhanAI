@@ -1,0 +1,6 @@
+streamlit==1.42.0
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+numpy==1.24.3
+pandas==2.2.3
