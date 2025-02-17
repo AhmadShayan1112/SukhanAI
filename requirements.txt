@@ -7,6 +7,4 @@ numpy==1.26.2
 # For JSON handling
 jsonschema==4.19.0
 
-# Additional dependencies
-Model  # Placeholder for your custom model library
-load   # Placeholder for your custom load module
+
