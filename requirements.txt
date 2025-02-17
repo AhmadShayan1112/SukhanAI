@@ -1,10 +1,10 @@
-torch==2.1.0
-streamlit==1.30.0
+torch
+streamlit
 
 # Model-related libraries
-numpy==1.26.2
+numpy
 
 # For JSON handling
-jsonschema==4.19.0
+jsonschema
 
 
